@@ -10,7 +10,6 @@
 input_file=./input.xml
 output_file=./jmwe-workflows.csv
 work_file=./jmwe-work
-temp_file=./jmwe-temp
 error_log=./error.log
 
 cp entities.xml $input_file
